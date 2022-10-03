@@ -6,7 +6,9 @@ submit a PR, please!
 ## Games!
 
 * <https://github.com/rdrmic/color-columns>: A falling-blocks-type 2D game with a simple but addictive gameplay
-
+* <https://github.com/ickshonpe/hexchess>: Chess-like game with a Hexagonal board.
+* <https://github.com/ickshonpe/Pillars-2>: Columns-like game
+* 
 ## Example/tutorial code
 
 None yet!
